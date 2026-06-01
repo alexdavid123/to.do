@@ -67,7 +67,7 @@
 <body>
 
     <div class="app-container">
-        <h2>✅ My To-Do App</h2>
+        <h2>✅ My To-Do list</h2>
         <div>
             <input type="text" id="taskInput" placeholder="Enter a task...">
             <button onclick="addTask()">Add</button>
